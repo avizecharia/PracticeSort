@@ -1,0 +1,14 @@
+C:\Users\IMOE001\source\repos\PracticeSort\PracticeSort\bin\Debug\net8.0\PracticeSort.exe
+C:\Users\IMOE001\source\repos\PracticeSort\PracticeSort\bin\Debug\net8.0\PracticeSort.deps.json
+C:\Users\IMOE001\source\repos\PracticeSort\PracticeSort\bin\Debug\net8.0\PracticeSort.runtimeconfig.json
+C:\Users\IMOE001\source\repos\PracticeSort\PracticeSort\bin\Debug\net8.0\PracticeSort.dll
+C:\Users\IMOE001\source\repos\PracticeSort\PracticeSort\bin\Debug\net8.0\PracticeSort.pdb
+C:\Users\IMOE001\source\repos\PracticeSort\PracticeSort\obj\Debug\net8.0\PracticeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMOE001\source\repos\PracticeSort\PracticeSort\obj\Debug\net8.0\PracticeSort.AssemblyInfoInputs.cache
+C:\Users\IMOE001\source\repos\PracticeSort\PracticeSort\obj\Debug\net8.0\PracticeSort.AssemblyInfo.cs
+C:\Users\IMOE001\source\repos\PracticeSort\PracticeSort\obj\Debug\net8.0\PracticeSort.csproj.CoreCompileInputs.cache
+C:\Users\IMOE001\source\repos\PracticeSort\PracticeSort\obj\Debug\net8.0\PracticeSort.dll
+C:\Users\IMOE001\source\repos\PracticeSort\PracticeSort\obj\Debug\net8.0\refint\PracticeSort.dll
+C:\Users\IMOE001\source\repos\PracticeSort\PracticeSort\obj\Debug\net8.0\PracticeSort.pdb
+C:\Users\IMOE001\source\repos\PracticeSort\PracticeSort\obj\Debug\net8.0\PracticeSort.genruntimeconfig.cache
+C:\Users\IMOE001\source\repos\PracticeSort\PracticeSort\obj\Debug\net8.0\ref\PracticeSort.dll
